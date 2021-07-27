@@ -1,0 +1,133 @@
+2021/07/26 22:47:33 Logging Running
+2021/07/26 22:49:54 Logging Running
+2021/07/26 23:43:38 Logging Running
+2021/07/26 23:44:38 /get-movie
+2021/07/26 23:44:38 Search Query or Page is not define
+2021/07/26 23:44:41 /get-movie
+2021/07/26 23:44:41 Search Query or Page is not define
+2021/07/26 23:44:42 /get-movie
+2021/07/26 23:44:42 Search Query or Page is not define
+2021/07/26 23:44:43 /get-movie
+2021/07/26 23:44:43 Search Query or Page is not define
+2021/07/26 23:44:43 /get-movie
+2021/07/26 23:44:43 Search Query or Page is not define
+2021/07/26 23:44:43 /get-movie
+2021/07/26 23:44:43 Search Query or Page is not define
+2021/07/26 23:44:55 /get-movie
+2021/07/26 23:44:55 Search Query or Page is not define
+2021/07/26 23:45:33 /get-movie
+2021/07/26 23:45:33 Search Query or Page is not define
+2021/07/26 23:45:34 /get-movie
+2021/07/26 23:45:34 Search Query or Page is not define
+2021/07/26 23:45:35 /get-movie
+2021/07/26 23:45:35 Search Query or Page is not define
+2021/07/26 23:46:13 /get-movie
+2021/07/26 23:46:13 Search Query or Page is not define
+2021/07/26 23:46:15 /get-movie
+2021/07/26 23:46:15 Search Query or Page is not define
+2021/07/26 23:52:06 Logging Running
+2021/07/26 23:52:23 /get-movie
+2021/07/26 23:52:23 Search Query or Page is not define
+2021/07/26 23:52:24 /get-movie
+2021/07/26 23:52:24 Search Query or Page is not define
+2021/07/26 23:53:33 Logging Running
+2021/07/26 23:53:57 /get-movie
+2021/07/26 23:53:57 Search Query or Page is not define
+2021/07/26 23:53:58 /get-movie
+2021/07/26 23:53:58 Search Query or Page is not define
+2021/07/26 23:55:44 Logging Running
+2021/07/26 23:56:18 /get-movie
+2021/07/26 23:56:18 Search Query or Page is not define
+2021/07/27 00:06:20 Logging Running
+2021/07/27 00:07:05 /get-movie
+2021/07/27 00:07:07 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 00:07:51 /get-movie
+2021/07/27 00:07:51 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 00:11:29 Logging Running
+2021/07/27 00:11:35 /get-movie
+2021/07/27 00:11:35 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 00:11:36 /get-movie
+2021/07/27 00:11:37 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 00:11:46 /get-movie
+2021/07/27 00:11:46 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 00:11:47 /get-movie
+2021/07/27 00:11:47 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 00:11:48 /get-movie
+2021/07/27 00:11:48 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 00:11:53 /get-movie
+2021/07/27 00:11:54 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=3
+2021/07/27 00:12:18 /get-movie
+2021/07/27 00:12:18 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=0
+2021/07/27 00:12:23 /get-movie
+2021/07/27 00:12:23 Search Query or Page is not define
+2021/07/27 00:12:24 /get-movie
+2021/07/27 00:12:24 Search Query or Page is not define
+2021/07/27 00:12:25 /get-movie
+2021/07/27 00:12:25 Search Query or Page is not define
+2021/07/27 00:20:38 Logging Running
+2021/07/27 00:20:46 /get-movie
+2021/07/27 00:20:46 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 13:38:52 Logging Running
+2021/07/27 13:39:17 /get-movie
+2021/07/27 13:39:17 Search Query or Page is not define
+2021/07/27 13:39:25 /get-movie
+2021/07/27 13:39:25 Search Query or Page is not define
+2021/07/27 13:39:29 /get-movie
+2021/07/27 13:39:30 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=sda&page=dsa
+2021/07/27 13:39:33 /get-movie
+2021/07/27 13:39:34 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=sdadas&page=dsadasd
+2021/07/27 13:48:37 Logging Running
+2021/07/27 13:49:06 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=batman&page=2
+2021/07/27 13:50:39 Search Query or Page is not define
+2021/07/27 13:50:40 Search Query or Page is not define
+2021/07/27 13:50:41 Search Query or Page is not define
+2021/07/27 13:51:55 Logging Running
+2021/07/27 13:52:01 Search Query or Page is not define
+2021/07/27 13:54:16 Logging Running
+2021/07/27 13:54:21 Search Query or Page is not define
+2021/07/27 13:54:22 Search Query or Page is not define
+2021/07/27 13:54:46 Logging Running
+2021/07/27 13:54:51 Search Query or Page is not define
+2021/07/27 14:03:55 Logging Running
+2021/07/27 14:04:05 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Batman&page=2
+2021/07/27 14:05:24 Search Query or Page is not define
+2021/07/27 14:05:28 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=dsad&page=sad
+2021/07/27 14:06:26 Logging Running
+2021/07/27 14:06:36 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=dsad&page=sad
+2021/07/27 14:06:47 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Superman&page=2
+2021/07/27 14:09:47 Logging Running
+2021/07/27 14:09:57 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Superman&page=2
+2021/07/27 14:09:58 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Superman&page=2
+2021/07/27 14:10:09 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Spiderman&page=2
+2021/07/27 14:10:16 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Spiderman&page=2131
+2021/07/27 14:11:56 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&s=Spiderman&page=2
+2021/07/27 14:12:25 Logging Running
+2021/07/27 14:16:02 Search Query or Page is not define
+2021/07/27 14:16:04 Search Query or Page is not define
+2021/07/27 14:16:10 Search Query or Page is not define
+2021/07/27 14:16:11 Search Query or Page is not define
+2021/07/27 14:18:35 Logging Running
+2021/07/27 14:18:43 Search Query or Page is not define
+2021/07/27 14:18:45 Search Query or Page is not define
+2021/07/27 14:19:16 Search Query or Page is not define
+2021/07/27 14:19:17 Search Query or Page is not define
+2021/07/27 14:19:48 Logging Running
+2021/07/27 14:20:39 Search Query or Page is not define
+2021/07/27 14:22:01 Logging Running
+2021/07/27 14:22:06 Search Query or Page is not define
+2021/07/27 14:22:25 Search Query or Page is not define
+2021/07/27 14:23:34 Logging Running
+2021/07/27 14:23:57 Search Query or Page is not define
+2021/07/27 14:23:59 Search Query or Page is not define
+2021/07/27 14:24:29 Logging Running
+2021/07/27 14:25:23 Logging Running
+2021/07/27 14:26:54 Logging Running
+2021/07/27 14:27:27 Logging Running
+2021/07/27 14:27:32 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt7575846
+2021/07/27 14:28:09 Logging Running
+2021/07/27 14:28:25 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt7575846
+2021/07/27 14:28:26 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt7575846
+2021/07/27 14:28:30 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt7575846s
+2021/07/27 14:28:35 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt7575842
+2021/07/27 14:28:40 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt7575844
+2021/07/27 14:28:43 go to http://www.omdbapi.com/?apikey=faf7e5bb&s&i=tt7575846
